@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>lanzhw5</title>
+  
+  <subtitle>青空之蓝</subtitle>
+  <link href="https://lanzhw5.work/atom.xml" rel="self"/>
+  
+  <link href="https://lanzhw5.work/"/>
+  <updated>2021-04-13T16:22:37.535Z</updated>
+  <id>https://lanzhw5.work/</id>
+  
+  <author>
+    <name>lanzhw5</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://lanzhw5.work/2021/04/13/hello-world/"/>
+    <id>https://lanzhw5.work/2021/04/13/hello-world/</id>
+    <published>2021-04-13T16:22:37.535Z</published>
+    <updated>2021-04-13T16:22:37.535Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
