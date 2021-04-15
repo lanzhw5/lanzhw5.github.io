@@ -6,7 +6,7 @@
   <link href="https://lanzhw5.work/atom.xml" rel="self"/>
   
   <link href="https://lanzhw5.work/"/>
-  <updated>2021-04-15T14:58:54.470Z</updated>
+  <updated>2021-04-15T15:25:16.668Z</updated>
   <id>https://lanzhw5.work/</id>
   
   <author>
@@ -17,11 +17,36 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Docker部署MySQL主从</title>
+    <link href="https://lanzhw5.work/2021/04/15/dockerdeploymysqlms/"/>
+    <id>https://lanzhw5.work/2021/04/15/dockerdeploymysqlms/</id>
+    <published>2021-04-15T21:27:45.000Z</published>
+    <updated>2021-04-15T15:25:16.668Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;一、安装基础环境及mysql&lt;/p&gt;
+&lt;pre class=&quot;line-numbers language-shell&quot; data-language=&quot;shell&quot;&gt;&lt;code class=&quot;language-shell&quot;&gt;1.安装docker-compose
+  curl</summary>
+        
+      
+    
+    
+    
+    
+    <category term="db" scheme="https://lanzhw5.work/tags/db/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Hello World</title>
     <link href="https://lanzhw5.work/2021/04/15/hello-world/"/>
     <id>https://lanzhw5.work/2021/04/15/hello-world/</id>
-    <published>2021-04-15T14:58:54.470Z</published>
-    <updated>2021-04-15T14:58:54.470Z</updated>
+    <published>2021-04-15T15:25:16.668Z</published>
+    <updated>2021-04-15T15:25:16.668Z</updated>
     
     
       
